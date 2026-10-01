@@ -1,0 +1,5 @@
+node_modules
+.netlify
+.vite
+.DS_Store
+dist
